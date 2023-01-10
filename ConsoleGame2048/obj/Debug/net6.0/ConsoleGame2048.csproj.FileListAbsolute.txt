@@ -1,0 +1,15 @@
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\bin\Debug\net6.0\ConsoleGame2048.exe
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\bin\Debug\net6.0\ConsoleGame2048.deps.json
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\bin\Debug\net6.0\ConsoleGame2048.runtimeconfig.json
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\bin\Debug\net6.0\ConsoleGame2048.dll
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\bin\Debug\net6.0\ConsoleGame2048.pdb
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.csproj.AssemblyReference.cache
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.AssemblyInfoInputs.cache
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.AssemblyInfo.cs
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.csproj.CoreCompileInputs.cache
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.dll
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\refint\ConsoleGame2048.dll
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.pdb
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ConsoleGame2048.genruntimeconfig.cache
+C:\Users\arsen\RiderProjects\ConsoleGame2048\ConsoleGame2048\obj\Debug\net6.0\ref\ConsoleGame2048.dll

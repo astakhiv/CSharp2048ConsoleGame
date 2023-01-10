@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGame2048", "ConsoleGame2048\ConsoleGame2048.csproj", "{70FB11A1-461E-420E-8F0D-B8A3813A7232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FB11A1-461E-420E-8F0D-B8A3813A7232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FB11A1-461E-420E-8F0D-B8A3813A7232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FB11A1-461E-420E-8F0D-B8A3813A7232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FB11A1-461E-420E-8F0D-B8A3813A7232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
